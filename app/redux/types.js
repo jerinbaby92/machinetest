@@ -1,0 +1,12 @@
+
+//success
+export const NETWORK = 'NETWORK';
+export const GET_DEBIT_CARD = 'GET_DEBIT_CARD';
+export const GET_SPENDING_LIMIT = 'GET_SPENDING_LIMIT';
+
+
+//error
+export const NETWORK_ERROR = 'NETWORK_ERROR';
+export const GET_DEBIT_CARD_ERROR = 'GET_DEBIT_CARD_ERROR';
+export const GET_SPENDING_LIMIT_ERROR = 'GET_SPENDING_LIMIT_ERROR';
+
